@@ -1,5 +1,5 @@
 Getting and Cleaning Data Project
-
+by Neal V. Quizon
 
 Description
 Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
