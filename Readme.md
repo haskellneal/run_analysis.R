@@ -6,6 +6,7 @@ The purpose of this project is to demonstrate your ability to collect, work with
 Contents This repo contains 2 following files.
 
 run_analysis.R - R scrip to solve the Excercice
+
 CodeBook.md - Describes the steps and configuration to make script working.
 
 
